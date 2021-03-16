@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+    <category title="title">
+        <subcategories>
+            <subcategory title="title1">
+                <products>
+                    <product>
+                        <manufacturer>manufacturer</manufacturer>
+                        <model>aa111</model>
+                        <dateOfManufacture>15-03-2021</dateOfManufacture>
+                        <color>#000000</color>
+                        <price>10000</price>
+                        <quantityInStock>10</quantityInStock>
+                    </product>
+                    <product>
+                        <manufacturer>manufacturer</manufacturer>
+                        <model>ab111</model>
+                        <dateOfManufacture>15-03-2021</dateOfManufacture>
+                        <color>#000001</color>
+                        <price>10000</price>
+                        <quantityInStock>10</quantityInStock>
+                    </product>
+                </products>
+            </subcategory>
+            <subcategory title="title2">
+                <products>
+                    <product>
+                        <manufacturer>manufacturer</manufacturer>
+                        <model>ab111</model>
+                        <dateOfManufacture>15-03-2021</dateOfManufacture>
+                        <color>#000001</color>
+                        <price>10000</price>
+                        <quantityInStock>10</quantityInStock>
+                    </product>
+                </products>
+            </subcategory>
+            <subcategory title="title3">
+                <products>
+                    <product>
+                        <manufacturer>manufacturer</manufacturer>
+                        <model>ac111</model>
+                        <dateOfManufacture>15-03-2021</dateOfManufacture>
+                        <color>#000000</color>
+                        <price>10000</price>
+                        <quantityInStock>10</quantityInStock>
+                    </product>
+                </products>
+            </subcategory>
+        </subcategories>
+    </category>
+    <category title="title">
+        <subcategories>
+            <subcategory title="title1">
+                <products>
+                    <product>
+                        <manufacturer>manufacturer</manufacturer>
+                        <model>aa111</model>
+                        <dateOfManufacture>15-03-2021</dateOfManufacture>
+                        <color>#000000</color>
+                        <price>10000</price>
+                        <quantityInStock>10</quantityInStock>
+                    </product>
+                    <product>
+                        <manufacturer>manufacturer</manufacturer>
+                        <model>ab111</model>
+                        <dateOfManufacture>15-03-2021</dateOfManufacture>
+                        <color>#000001</color>
+                        <price>10000</price>
+                        <quantityInStock>10</quantityInStock>
+                    </product>
+                </products>
+            </subcategory>
+            <subcategory title="title2">
+                <products>
+                    <product>
+                        <manufacturer>manufacturer</manufacturer>
+                        <model>ab111</model>
+                        <dateOfManufacture>15-03-2021</dateOfManufacture>
+                        <color>#000001</color>
+                        <price>10000</price>
+                        <quantityInStock>10</quantityInStock>
+                    </product>
+                </products>
+            </subcategory>
+            <subcategory title="title3">
+                <products>
+                    <product>
+                        <manufacturer>manufacturer</manufacturer>
+                        <model>ac111</model>
+                        <dateOfManufacture>15-03-2021</dateOfManufacture>
+                        <color>#000000</color>
+                        <price>10000</price>
+                        <quantityInStock>10</quantityInStock>
+                    </product>
+                </products>
+            </subcategory>
+        </subcategories>
+    </category>
+</categories>
